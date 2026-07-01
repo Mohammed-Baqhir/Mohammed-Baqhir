@@ -125,14 +125,10 @@ A cloud-native tax calculator application containerized and deployed using moder
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohammed-Baqhir&show_icons=true&theme=tokyonight&hide_border=false" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Baqhir&layout=compact&theme=tokyonight&hide_border=false" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohammed-Baqhir&theme=tokyonight" />
 </p>
 
 ---
