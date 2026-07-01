@@ -101,22 +101,6 @@ A React + Redux plant shopping application with product listing, cart management
 
 ---
 
-### 🌍 Travel Recommendation Website
-
-A travel recommendation web app that displays beaches, temples, and country-based recommendations using JavaScript.
-
-**Tech Used:** HTML, CSS, JavaScript
-
----
-
-### 📚 Express Book Review App
-
-A Node.js and Express-based book review application with user registration, login, and review features.
-
-**Tech Used:** Node.js, Express.js, JavaScript
-
----
-
 ### 🧮 Tax Calculator Project
 
 A cloud-native tax calculator application containerized and deployed using modern cloud tools.
