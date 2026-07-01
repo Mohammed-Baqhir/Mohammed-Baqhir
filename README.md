@@ -23,15 +23,14 @@
 I'm a **B.Tech CSE student specializing in Data Science & Artificial Intelligence** at  
 **Dr. M.G.R. Educational and Research Institute**.
 
-I enjoy building **full stack web applications**, learning modern development tools, and exploring how AI can be used to create useful real-world solutions.
+I enjoy building **AI-powered applications**, working with **machine learning models**, and exploring how data and intelligent systems can solve real-world problems.
 
-- 🔭 Currently working on my **portfolio website**
-- 🌱 Learning **Full Stack Development, MERN Stack, GitHub, and deployment**
-- 💻 Interested in **Software Development, Web Development, Data Analytics, and AI**
-- 🚀 Building projects using **JavaScript, React, Node.js, Express, MongoDB, and Python**
-- 🎯 Goal: To become a strong **Software Developer / Full Stack Developer**
-
----
+- 🔭 Currently working on my **portfolio website and AI/ML projects**
+- 🌱 Learning **Machine Learning, AI Engineering, Data Science, GitHub, and deployment**
+- 💻 Interested in **AI Engineering, Machine Learning, Data Science, Data Analytics, and Software Development**
+- 🚀 Building projects using **Python, JavaScript, React, Node.js, Express, MongoDB, and ML libraries**
+- 🧠 Exploring **ML model building, AI automation, data-driven applications, and intelligent web apps**
+- 🎯 Goal: To become a strong **AI Engineer / Machine Learning Engineer**
 
 ## 🛠️ Tech Stack
 
