@@ -11,7 +11,7 @@
   <a href="https://github.com/Mohammed-Baqhir">
     <img src="https://img.shields.io/badge/GitHub-Mohammed--Baqhir-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/baqhirmohammed/">
+  <a href="https://www.linkedin.com/in/mohammed-baqhir/">
     <img src="https://img.shields.io/badge/LinkedIn-Mohammed%20Baqhir-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -166,7 +166,7 @@ A cloud-native tax calculator application containerized and deployed using moder
     <img src="https://img.shields.io/badge/GitHub-Mohammed--Baqhir-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
-  <a href="https://www.linkedin.com/in/baqhirmohammed/">
+  <a href="https://www.linkedin.com/in/mohammed-baqhir/">
     <img src="https://img.shields.io/badge/LinkedIn-Mohammed%20Baqhir-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
