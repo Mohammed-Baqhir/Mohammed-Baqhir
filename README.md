@@ -128,8 +128,11 @@ A cloud-native tax calculator application containerized and deployed using moder
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohammed-Baqhir&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Baqhir&layout=compact&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohammed-Baqhir&show_icons=true&theme=tokyonight&hide_border=false" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Baqhir&layout=compact&theme=tokyonight&hide_border=false" />
 </p>
 
 ---
@@ -144,13 +147,14 @@ A cloud-native tax calculator application containerized and deployed using moder
 
 ## 📌 Currently Focused On
 
-- Full Stack Development
-- MERN Stack Projects
-- Portfolio Website
-- GitHub Profile Improvement
-- Data Analytics Fundamentals
-- AI-based Applications
+- Artificial Intelligence
+- Machine Learning
 - ML Model Building
+- Data Science Projects
+- Python for AI/ML
+- Data Analytics Fundamentals
+- AI-powered Web Applications
+- Portfolio Website Improvement
 
 ---
 
